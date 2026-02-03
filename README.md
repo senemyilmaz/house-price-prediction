@@ -136,7 +136,7 @@ jupyter notebook House_Price_Prediction.ipynb
 
 ---
 
-## ## Results
+## Results
 
 The final Gradient Boosting model achieved strong predictive performance on the unseen test set.
 
